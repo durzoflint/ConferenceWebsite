@@ -190,3 +190,6 @@ ul.big li:nth-child(2n) {margin-left: 2%;}
     .fbox {float: left;}
     .fbox:nth-child(3) {float: right !important;}
 }
+.invspeaker{
+    color: black;
+}
